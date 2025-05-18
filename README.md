@@ -1,4 +1,4 @@
-Welcome to qsADXS's github!:airplane:
+Welcome to qsADXS's github! :airplane:
 
 ![snake](https://raw.githubusercontent.com/qsADXS/qsADXS/output/github-contribution-grid-snake.svg)
 
